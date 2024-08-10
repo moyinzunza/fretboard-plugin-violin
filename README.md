@@ -1,9 +1,13 @@
-# Fretboard
+# Fretboard Violin
+
+Original plugin by dmitrio95: 
+https://github.com/dmitrio95/fretboard-plugin
+
 A plugin for MuseScore which provides a simple fretboard for visualizing and editing tablature scores.
 
 Supports MuseScore 4 and MuseScore 3 since the version 3.3.
 
-![Screenshot](screenshots/screen1.png)
+![Screenshot](screenshots/screen.png)
 
 ## Features
 - Visualizing currently selected notes and chords
@@ -13,6 +17,6 @@ Supports MuseScore 4 and MuseScore 3 since the version 3.3.
 
 ## Links
 - This plugin's page on musescore.org: \
-  https://musescore.org/en/project/fretboard
+  [https://musescore.org/en/project/fretboard](https://musescore.org/en/project/fretboard-violin)
 - Forum thread for discussions and update announcements: \
   https://musescore.org/en/node/295404
