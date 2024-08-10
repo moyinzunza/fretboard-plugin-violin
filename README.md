@@ -19,4 +19,4 @@ Supports MuseScore 4 and MuseScore 3 since the version 3.3.
 - This plugin's page on musescore.org: \
   [https://musescore.org/en/project/fretboard](https://musescore.org/en/project/fretboard-violin)
 - Forum thread for discussions and update announcements: \
-  https://musescore.org/en/node/295404
+  [https://musescore.org/en/node/295404](https://musescore.org/en/node/366923)
